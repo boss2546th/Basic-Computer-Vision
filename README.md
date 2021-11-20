@@ -26,3 +26,7 @@ Please read the [contribution guidelines](https://github.com/opencv/opencv/wiki/
 * Include tests and documentation;
 * Clean up "oops" commits before submitting;
 * Follow the [coding style guide](https://github.com/opencv/opencv/wiki/Coding_Style_Guide).
+<br>
+
+![Screenshot 2021-10-04 141212](https://user-images.githubusercontent.com/61747927/142733487-8cdbfd08-7d52-42ca-92a9-cd356541dfd5.jpg)
+
