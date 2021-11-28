@@ -1,10 +1,13 @@
 # My Basic-Computer-Vision
 
+
+## Library used
+<ul>
   
-## OpenCV: Open Source Computer Vision Library 
+### OpenCV: Open Source Computer Vision Library 
 github OpenCV : <https://github.com/opencv/opencv>
 
-### Resources
+#### Resources
 
 * Homepage: <https://opencv.org>
   * Courses: <https://opencv.org/courses>
@@ -15,11 +18,11 @@ github OpenCV : <https://github.com/opencv/opencv>
 * Additional OpenCV functionality: <https://github.com/opencv/opencv_contrib> 
 
 
-### Contributing
+#### Contributing
 
 Please read the [contribution guidelines](https://github.com/opencv/opencv/wiki/How_to_contribute) before starting work on a pull request.
 
-#### Summary of the guidelines:
+##### Summary of the guidelines:
 
 * One pull request per issue;
 * Choose the right base branch;
@@ -27,6 +30,8 @@ Please read the [contribution guidelines](https://github.com/opencv/opencv/wiki/
 * Clean up "oops" commits before submitting;
 * Follow the [coding style guide](https://github.com/opencv/opencv/wiki/Coding_Style_Guide).
 <br>
+</ul>
+<hr>
 
 ![Screenshot 2021-10-04 141212](https://user-images.githubusercontent.com/61747927/142733487-8cdbfd08-7d52-42ca-92a9-cd356541dfd5.jpg)
 
