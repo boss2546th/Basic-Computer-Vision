@@ -1,5 +1,5 @@
 # My Basic-Computer-Vision
-
+<hr>
 
 ## Library used
 <ul>
@@ -32,6 +32,15 @@ Please read the [contribution guidelines](https://github.com/opencv/opencv/wiki/
 <br>
 </ul>
 <hr>
+  
+## Source code and result
+
+- <h4>goto file</h4>
+<a href = "https://github.com/boss2546th/Basic-Computer-Vision/blob/main/pythonProject3/imread.py">
+  <img src = "https://user-images.githubusercontent.com/61747927/143782748-b06790c1-b42c-4496-acb4-34e3d5d691cc.png" width = 150px>
+</a> 
+<br>
+<br>
 
 ![Screenshot 2021-10-04 141212](https://user-images.githubusercontent.com/61747927/142733487-8cdbfd08-7d52-42ca-92a9-cd356541dfd5.jpg)
 
