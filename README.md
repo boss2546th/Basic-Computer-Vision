@@ -42,7 +42,7 @@ Please read the [contribution guidelines](https://github.com/opencv/opencv/wiki/
 <br>
 <br>
   
- ```
+ ```python
 import cv2
 import numpy as np
 import time as tm
