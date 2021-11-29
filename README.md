@@ -46,7 +46,8 @@ Please read the [contribution guidelines](https://github.com/opencv/opencv/wiki/
 import cv2
 import numpy as np
 import time as tm
-
+```
+```python
 img = cv2.imread('243922751_1753233418210283_3024483077450698404_n.jpg')
 hsv = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
 
@@ -54,7 +55,9 @@ lower = np.array([0, 150, 150])
 upper = np.array([75, 255, 255])
 result = cv2.inRange(hsv, lower, upper)
 res = cv2.bitwise_and(img, img, mask= result)
+  
 
+```python
 def resize(img,per):
     scale_percent = per  # percent of original size
     width = int(img.shape[1] * scale_percent / 100)
@@ -62,7 +65,8 @@ def resize(img,per):
     dim = (width, height)
     # resize image
     return cv2.resize(img, dim, interpolation=cv2.INTER_AREA)
-
+```
+```python
 X = int(742/12)
 Y = int(470/9)
 cnt = 0
@@ -122,7 +126,7 @@ cv2.destroyAllWindows()
  
 <br>
 
-![Screenshot 2021-10-04 141212](https://user-images.githubusercontent.com/61747927/142733487-8cdbfd08-7d52-42ca-92a9-cd356541dfd5.jpg)
+![Screenshot 2021-10-04 141212](https://user-images.githubusercontent.com/61747927/142733487-8cdbfd08-7d52-42ca-92a9-cd356541dfd5.jpg)<br>
 ![Screenshot 2021-10-04 135814](https://user-images.githubusercontent.com/61747927/143809909-6336e377-ebd5-47c0-be1e-f0af7c0a7a6c.jpg)
 
   <hr>
