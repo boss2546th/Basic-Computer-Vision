@@ -55,7 +55,7 @@ lower = np.array([0, 150, 150])
 upper = np.array([75, 255, 255])
 result = cv2.inRange(hsv, lower, upper)
 res = cv2.bitwise_and(img, img, mask= result)
-  
+```  
 
 ```python
 def resize(img,per):
@@ -66,6 +66,7 @@ def resize(img,per):
     # resize image
     return cv2.resize(img, dim, interpolation=cv2.INTER_AREA)
 ```
+
 ```python
 X = int(742/12)
 Y = int(470/9)
