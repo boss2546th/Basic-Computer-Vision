@@ -41,9 +41,9 @@ Please read the [contribution guidelines](https://github.com/opencv/opencv/wiki/
 </a> 
 <br>
 <br>
-###เรียกใช้โมดูล Cv2 ประมวลผลภาพ และ numpy ในการสร้าง array ของ Upper Lower
   
  ```python
+#เรียกใช้โมดูล Cv2 ประมวลผลภาพ และ numpy ในการสร้าง array ของ Upper Lower
 import cv2
 import numpy as np
 import time as tm
