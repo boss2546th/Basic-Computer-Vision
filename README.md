@@ -127,9 +127,12 @@ cv2.destroyAllWindows()
  ```
  
 <br>
-```
-  เป็นการนับจำนวนผักในกระบะเพาะ
-```
+
+  <hr>
+  
+## เป็นการนับจำนวนผักในกระบะเพาะ
+  <br>
+  
 ![Screenshot 2021-10-04 141212](https://user-images.githubusercontent.com/61747927/142733487-8cdbfd08-7d52-42ca-92a9-cd356541dfd5.jpg)<br>
 ![Screenshot 2021-10-04 135814](https://user-images.githubusercontent.com/61747927/143809909-6336e377-ebd5-47c0-be1e-f0af7c0a7a6c.jpg)
 
