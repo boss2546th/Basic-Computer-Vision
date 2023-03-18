@@ -1,4 +1,4 @@
-# My Basic-Computer-Vision
+# My Basic-Image-Processing
 <hr>
 
 ## Library used
